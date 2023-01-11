@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhaz&show_icons=true&bg_color=23339631&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true)
+
+I'm Parsa. A Informatics at the University of Washington Seattle who loves building things & leveraging tech to generate value. 
+
+Learn more about me [here](https://kparsa.com/) :)
