@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Parsa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parsakhaz&show_icons=true&bg_color=23339631&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true)
+<!-- ![Parsa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parsakhaz&show_icons=true&bg_color=23339631&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true) -->
 
 I'm Parsa. UW Informatics '23, Georgia Tech CS '25.
 
-I love building things & `leveraging tech to generate value`. This means building web apps, workflows, scripts, systems, processes... whatever.
+I love building things & `leveraging tech to generate value`. This means building web apps, workflows, scripts, systems, processes... whatever. My hackiest and in my opinion most interesting projects are private ;)
 
-I hyper focus on finding `the 20% of effort` that generates `80% of the results`. 
+I hyper focus on finding `the 20% of effort` that generates `80% of the results`. Pareto Principle FTW. also ruthlessly a believer in Parkinson's law, "that work expands to fill the time allotted for its completion". as such, I give myself unreasonable deadlines, for unreasonable outcomes, and have gotten pretty decent at achieving them as times passed. I call this, "naive optimism", while others call it "procrastination"...
 
 ---
 
-I am currently helping with all things Customer Discovery, SDR/BDR, and managing development of our front facing website for the [Allen Institute for Artifical Intelligence's Startup Incubator](https://www.ai2incubator.com/). 
+I am currently helping with all things AI, Business Development, Customer Discovery, SDR/BDR, Ops, and managing development of our front facing website for the [Allen Institute for Artifical Intelligence's Startup Incubator](https://www.ai2incubator.com/). 
 
 
 Learn more about me [here](https://kparsa.com/) :)
+*note from 2024: a sort of time capsule now, hasn't been touched since late 2022/early 2023.
