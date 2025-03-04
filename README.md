@@ -21,4 +21,4 @@ I'm Parsa.
 
 I am currently Head of Developer Relations at [Moondream](https://github.com/vikhyat/moondream), where we're teaching computers to see. I'm working on making vision language models accessible to everyone.
 
-Learn more about me [here](https://kparsa.com/) :)
+Learn more about me [here](https://www.linkedin.com/in/parsas) :)
