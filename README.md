@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 
 I'm Parsa. 
 
-I am currently Head of Developer Relations at [Moondream](https://github.com/vikhyat/moondream), where we're teaching computers to see. I'm working on making vision language models accessible to everyone.
-
-Join my [discord](https://discord.com/invite/tRUdpjDQfH) or [Reddit](https://www.reddit.com/r/Moondream/) to chat with me :)
-
 Learn more about me [here](https://www.linkedin.com/in/parsas) 
