@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 
 I'm Parsa. 
 
+Currently: automating business ops with AI 
+
+Prev:
+head of..
+• developer relations/evangelism, growth @ moondream, computer vision model 
+• business development, gtm engineer, customer discovery @ allen institute for AI startup incubator
+
 Learn more about me [here](https://www.linkedin.com/in/parsas) 
