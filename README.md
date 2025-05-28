@@ -17,16 +17,5 @@ Here are some ideas to get you started:
 
 <!-- ![Parsa's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parsakhaz&show_icons=true&bg_color=23339631&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true) -->
 
-I'm Parsa. 
+tinkering and building w/ open source!
 
-**Currently:**
-
-automating business ops with AI 
-
-tinkering and building w/ open source
-
-**Prev:**
-
-• developer relations/evangelism, growth @ moondream, computer vision model 
-
-• business development, gtm engineer, customer discovery @ allen institute for AI startup incubator
