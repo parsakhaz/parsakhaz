@@ -23,10 +23,10 @@ I'm Parsa.
 
 automating business ops with AI 
 
+tinkering and building w/ open source
+
 **Prev:**
 
 • developer relations/evangelism, growth @ moondream, computer vision model 
 
 • business development, gtm engineer, customer discovery @ allen institute for AI startup incubator
-
-Learn more about me [here](https://www.linkedin.com/in/parsas) 
